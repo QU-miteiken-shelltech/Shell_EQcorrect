@@ -1,3 +1,9 @@
+We vibe coded this project using Claude Sonnet 5.5.
+We have done basic tests, and have ensured that there is no fatal security related issue.
+However, this project has not been varified with high precision, and there may be unexpected exceptions. Use it on your own responsibility.
+
+!!!
+
 # eqcorrect — 周波数特性 (振幅・位相) 補正エンジン
 
 生の音声 (.wav) と測定ファイル (.req) から補正用の逆フィルタを設計し、**周波数領域の高速畳み込み**で補正済み .wav と
